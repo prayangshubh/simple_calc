@@ -26,6 +26,7 @@ node index.js
 7. ```Value Of Tan:-```  ```node index.js 1 tan```
 8. ```Value Of Cos:-```  ```node index.js 1 cos```
 9. ```Value Of Sin:-```  ```node index.js 1 sin```
+9. ```Value Of Squre Root:-```  ```node index.js 9 sqrt```
 
 
 ## 🤝 Contributing

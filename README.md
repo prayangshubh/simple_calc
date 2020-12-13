@@ -1,4 +1,4 @@
-# Simple_Calc
+# :collision: :collision: :star2: Simple_Calc :star2: :collision: :collision:
 
 This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas
 

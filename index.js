@@ -10,6 +10,7 @@ const abs = require('./calculator/abs.js')
 const tan = require('./calculator/tan.js')
 const cos = require('./calculator/cos.js')
 const sin = require('./calculator/sin.js')
+const sqrt = require('./calculator/sqrt.js')
 
 const a = parseInt(process.argv[2]);
 const choice = process.argv[3];
@@ -66,6 +67,12 @@ else  if(choice === "tan") {
     console.log(a, choice);
     console.log(tan(a));
 }
+
+else  if(choice === "sqrt") {
+    console.log(a, choice);
+    console.log(sqrt(a));
+}
+
 
 if(choice === "+") {
     console.log(a, choice , b);

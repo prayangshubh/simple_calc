@@ -19,8 +19,10 @@ node index.js
 
 1. ```Addition:-```  ```node index.js 30 + 20``` or ```node index.js 30 add 20```  
 2. ```Subtraction:-```  ```node index.js 30 - 20```  or ```node index.js 30 sub 20``` 
-1. ```Multiplication:-```  ``` node index.js 30 * 20```  or ``` node index.js 30 mul 20``` 
-1. ```Division:-```  ```node index.js 30 / 20```  or ```node index.js 30 div 20``` 
+3. ```Multiplication:-```  ``` node index.js 30 * 20```  or ``` node index.js 30 mul 20``` 
+4. ```Division:-```  ```node index.js 30 / 20```  or ```node index.js 30 div 20``` 
+5. ```Exponent:-```  ```node index.js 30 ** 20```  or ```node index.js 30 exp 20``` 
+
 ## 🤝 Contributing
 
 1. [Fork This Repository](https://github.com/x44uarbdx/simple_calc/fork)

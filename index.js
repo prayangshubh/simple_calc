@@ -8,6 +8,7 @@ const exp = require('./calculator/exp.js')
 const abs = require('./calculator/abs.js')
 const tan = require('./calculator/tan.js')
 const cos = require('./calculator/cos.js')
+const sin = require('./calculator/sin.js')
 
 const a = parseInt(process.argv[2]);
 const choice = process.argv[3];
@@ -43,6 +44,12 @@ else  if(choice === "abs") {
     console.log(a, choice);
     console.log(abs(a));
 }
+
+else  if(choice === "sin") {
+    console.log(a, choice);
+    console.log(sin(a));
+}
+
 
 else  if(choice === "cos") {
     console.log(a, choice);

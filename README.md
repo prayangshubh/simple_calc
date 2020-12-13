@@ -11,11 +11,11 @@ npm install
 node index.js
 ```
 
-## Language
+## 📓 Language
 ` Javascript (Node.JS) ` 
 
 
-## :D Usage:- 
+## :computer: Usage:- 
 
 1. ```Addition:-```  ```node index.js 30 + 20``` or ```node index.js 30 add 20```  
 2. ```Subtraction:-```  ```node index.js 30 - 20```  or ```node index.js 30 sub 20``` 

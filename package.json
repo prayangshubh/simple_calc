@@ -1,0 +1,24 @@
+{
+  "name": "simple_calc",
+  "version": "1.0.0",
+  "description": "This Is A Simple Calculator Created Using Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x44uarbdx/simple_calc.git"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "simple_calc"
+  ],
+  "author": "Prayangshu Biswas Hritwick <hritwickv@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/x44uarbdx/simple_calc/issues"
+  },
+  "homepage": "https://github.com/x44uarbdx/simple_calc#readme"
+}

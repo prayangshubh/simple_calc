@@ -5,6 +5,7 @@ const sub = require('./calculator/sub.js')
 const mul = require('./calculator/mul.js')
 const div = require('./calculator/div.js')
 const exp = require('./calculator/exp.js')
+const log = require('./calculator/log.js')
 const abs = require('./calculator/abs.js')
 const tan = require('./calculator/tan.js')
 const cos = require('./calculator/cos.js')
@@ -38,6 +39,11 @@ else  if(choice === "div") {
 else  if(choice === "exp") {
     console.log(a, choice , b);
     console.log(exp(a ,b));
+}
+
+else  if(choice === "log") {
+    console.log(a, choice);
+    console.log(log(a));
 }
 
 else  if(choice === "abs") {

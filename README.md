@@ -2,8 +2,18 @@
 
 This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas
 
-### Languages
+## 🚀 Getting Started
+
+```
+git clone https://github.com/x44uarbdx/simple_calc
+cd simple_calc
+npm install
+node index.js
+```
+
+## Languages
 ``` 03. Javascript (Node.JS) ``` 
+
 
 ## :D Usage:- 
 

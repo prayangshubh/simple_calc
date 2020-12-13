@@ -4,6 +4,7 @@ const add = require('./calculator/add.js')
 const sub = require('./calculator/sub.js')
 const mul = require('./calculator/mul.js')
 const div = require('./calculator/div.js')
+const exp = require('./calculator/exp.js')
 
 const a = parseInt(process.argv[2]);
 const choice = process.argv[3];
@@ -27,6 +28,10 @@ else  if(choice === "div") {
     console.log(div(a ,b));
 }
 
+else  if(choice === "exp") {
+    console.log(exp(a ,b));
+}
+
 if(choice === "+") {
     console.log(add(a ,b));
 }
@@ -42,6 +47,11 @@ else  if(choice === "*") {
 else  if(choice === "/") {
     console.log(div(a ,b));
 }
+
+else  if(choice === "**") {
+    console.log(exp(a ,b));
+}
+
 
 else {
     console.log("Invalid Command!")

@@ -22,7 +22,8 @@ node index.js
 3. ```Multiplication:-```  ``` node index.js 30 * 20```  or ``` node index.js 30 mul 20``` 
 4. ```Division:-```  ```node index.js 30 / 20```  or ```node index.js 30 div 20``` 
 5. ```Exponent:-```  ```node index.js 30 ** 20```  or ```node index.js 30 exp 20``` 
-6. ```Value Of Tan:-```  ```node index.js 1 tan```
+6. ```Value Of Absolute Number:-```  ```node index.js -1 abs```
+7. ```Value Of Tan:-```  ```node index.js 1 tan```
 
 ## 🤝 Contributing
 

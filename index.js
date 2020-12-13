@@ -5,6 +5,8 @@ const sub = require('./calculator/sub.js')
 const mul = require('./calculator/mul.js')
 const div = require('./calculator/div.js')
 const exp = require('./calculator/exp.js')
+const tan = require('./calculator/tan.js')
+
 
 const a = parseInt(process.argv[2]);
 const choice = process.argv[3];
@@ -30,6 +32,10 @@ else  if(choice === "div") {
 
 else  if(choice === "exp") {
     console.log(exp(a ,b));
+}
+
+else  if(choice === "tan") {
+    console.log(tan(a));
 }
 
 if(choice === "+") {

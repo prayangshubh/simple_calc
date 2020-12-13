@@ -11,8 +11,8 @@ npm install
 node index.js
 ```
 
-## Languages
-``` 03. Javascript (Node.JS) ``` 
+## Language
+` Javascript (Node.JS) ` 
 
 
 ## :D Usage:- 

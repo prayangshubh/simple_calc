@@ -1,4 +1,4 @@
-# simple_calc
+# Simple_Calc
 
 This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas
 
@@ -18,8 +18,8 @@ node index.js
 ## :D Usage:- 
 
 1. ```Addition:-```  ```node index.js 30 + 20``` or ````node index.js 30 add 20```  
-2. ```Subtraction:-```  `node index.js 30 - 20```  or ```node index.js 30 sub 20``` 
-1. ```Multiplication:-```  `node index.js 30 * 20```  or ``` node index.js 30 mul 20``` 
+2. ```Subtraction:-```  ```node index.js 30 - 20```  or ```node index.js 30 sub 20``` 
+1. ```Multiplication:-```  ``` node index.js 30 * 20```  or ``` node index.js 30 mul 20``` 
 1. ```Division:-```  ```node index.js 30 / 20```  or ```node index.js 30 div 20``` 
 ## 🤝 Contributing
 

@@ -1,5 +1,4 @@
-# :collision: :collision: :star2: Simple_Calc :star2: :collision: :collision:
-
+💥 💥 🌟 Simple_Calc 💥 💥 🌟
 :iphone: This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas :iphone:
 
 ## 🚀 Getting Started

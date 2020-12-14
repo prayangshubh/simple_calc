@@ -1,5 +1,7 @@
 💥 💥 🌟 Simple_Calc 💥 💥 🌟
-:iphone: This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas :iphone:
+
+
+📱📱 This Is A Simple Calculator Created Using Node.JS By Prayangshu Biswas 📱📱
 
 ## 🚀 Getting Started
 

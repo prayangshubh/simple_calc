@@ -6,7 +6,7 @@
 ## 🚀 Getting Started
 
 ```
-git clone https://github.com/x44uarbdx/simple_calc
+git clone https://github.com/prayangshubh/simple_calc
 cd simple_calc
 npm install
 node index.js
@@ -33,8 +33,8 @@ node index.js
 
 ## 🤝 Contributing
 
-1. [Fork This Repository](https://github.com/x44uarbdx/simple_calc/fork)
-2. Clone Your Fork: `git clone https://github.com/x44uarbdx/simple_calc`
+1. [Fork This Repository](https://github.com/prayangshubh/simple_calc/fork)
+2. Clone Your Fork: `https://github.com/prayangshubh/simple_calc`
 3. Create Your Feature Branch: `git checkout -b My-Mew-Feature`
 4. Commit Your Changes: `git commit -am 'Add Some Feature'`
 5. Push To The Branch: `git push origin My-New-Feature`
@@ -44,6 +44,6 @@ node index.js
 
  Prayangshu Biswas Hritwick
  
- [@x44uarbdx](https://github.com/x44uarbdx)
+ [@prayangshubh](https://github.com/prayangshubh)
 
 
